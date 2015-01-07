@@ -55,7 +55,7 @@
    "provides" : {
       "Minion::Backend::Mango" : {
          "file" : "lib/Minion/Backend/Mango.pm",
-         "version" : "0.90"
+         "version" : "0.91"
       }
    },
    "release_status" : "stable",
@@ -69,6 +69,6 @@
          "web" : "https://github.com/avkhozov/Minion-Backend-Mango"
       }
    },
-   "version" : "0.90",
+   "version" : "0.91",
    "x_authority" : "cpan:AVKHOZOV"
 }

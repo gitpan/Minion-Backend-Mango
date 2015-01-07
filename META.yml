@@ -26,7 +26,7 @@ no_index:
 provides:
   Minion::Backend::Mango:
     file: lib/Minion/Backend/Mango.pm
-    version: '0.90'
+    version: '0.91'
 requires:
   Mango: '1.14'
   Minion: '1.05'
@@ -34,5 +34,5 @@ resources:
   bugtracker: https://github.com/avkhozov/Minion-Backend-Mango/issues
   homepage: https://github.com/avkhozov/Minion-Backend-Mango
   repository: git://github.com/avkhozov/Minion-Backend-Mango.git
-version: '0.90'
+version: '0.91'
 x_authority: cpan:AVKHOZOV
